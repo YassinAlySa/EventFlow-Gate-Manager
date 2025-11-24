@@ -1,0 +1,7 @@
+{
+  "name": "EventFlow Gate Manager",
+  "description": "A comprehensive event management tool for visitor registration, QR code generation, instant badge printing, and AI-powered email automation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
